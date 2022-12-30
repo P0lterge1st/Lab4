@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(534,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (Calc.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  Calc1.cpp
+D:\C++ proj\Calc\Calc1.cpp(47,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+D:\C++ proj\Calc\Calc1.cpp(49,12): warning C4101: n: неиспользованная локальная переменная
+  Calc.vcxproj -> D:\C++ proj\Calc\x64\Debug\Calc1.exe

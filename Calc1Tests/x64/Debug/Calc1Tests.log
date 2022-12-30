@@ -1,0 +1,3 @@
+﻿  Calc1Tests.cpp
+D:\C++ proj\Calc\Calc1.cpp(49,12): warning C4101: n: неиспользованная локальная переменная
+  Calc1Tests.vcxproj -> D:\C++ proj\Calc\x64\Debug\Calc1Tests.dll
